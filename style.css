@@ -1,0 +1,86 @@
+body{
+    color: rgb(21, 75, 21);
+    font-size: 20px;
+    text-align: center;
+}
+.first-block{
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 8px;
+    width: 250px;
+    height: 200px;
+    color: rgb(34, 163, 77);
+    text-align: center;
+    margin: 5px;
+    background-color: aliceblue;
+}
+.period{
+font-size: 10px;
+}
+.buy {
+    margin:  auto;
+    border: 0;
+    width: 150px;
+    background: grey;
+    color: white;
+    padding: 10px;
+    font-size: 10px;
+    text-transform: capitalize;
+    border-radius: 4px;
+}
+.free_buy {
+    background: rgb(87, 142, 6);
+}
+.premium_buy {
+    background: rgb(0, 29, 109);
+}
+.pro_buy {
+    background: rgb(255, 196, 0);
+}
+.sravnit_buy {
+    background: #000000;
+    color: #ff00aa;
+    text-transform: capitalize;
+    border-radius: 4px;    
+    padding: 10px;
+    font-size: 10px;    margin:  auto;
+    border: 0;
+    width: 150px;
+}
+.price {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.second-block{
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 8px;
+    width: 250px;
+    height: 200px;
+    color: blue;
+    text-align: center;
+    margin: 5px;
+    background-color: aliceblue;
+}
+
+.third-block{
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 8px;
+    width: 250px;
+    height: 200px;
+    color: rgb(233, 233, 0);
+    text-align: center;
+    margin: 10px;
+    background-color: aliceblue;
+}
+.list_menu {
+    font-size: 5px;
+    text-align: left;
+    margin: 10px,10px,0;
+}
+
+.list_menu-title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
